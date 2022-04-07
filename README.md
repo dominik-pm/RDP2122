@@ -3,8 +3,8 @@ Lernunterlagen der Reife- und Diplomprüfung der HTL Krems, Depandance Zwettl im
 
 ## SEW
 
-* BinaryTree
-* LinkedList
+* BinaryTree [link to section](./F2.md#section)
+* LinkedList [link to section](./F2.md#section)
 
 ## INSY
 
