@@ -33,6 +33,12 @@ Was sonst noch kommen kann:
  - Normalformen (bei da Schriftlichen nur so, dass die zu erstellenden Tabellen in Normalform sind und nicht explizit; Bei da mündlichen kon ois sei..)
  - Eventuell so a Frage ob a Programm in an Deadlock führt. 
 
+Code Beispiele:
+ - [Trigger und Procedures Steuerklassen](INSY/MYSQL_Statements/Trigger_Procedure_Steuerklassen.sql)
+
+3 unabhängige Beispiele
+oder doch etwas, wo was abhängig ist
+
 ## SYTS
 
 ## ITP
