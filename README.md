@@ -38,6 +38,7 @@ Code Beispiele:
 
 3 unabhängige Beispiele
 oder doch etwas, wo was abhängig ist
+XML, Transportproblem (6-8 Punkte), Lineare Optimierung (6 Punkte fürs rechnen und 1-2 Punkte fürs erklären)
 
 ## SYTS
 
