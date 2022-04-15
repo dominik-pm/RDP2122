@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Downloads\TreeViewXML\RDP_SEW\ObserverPatternToEvents\bin\Debug\net6.0\ObserverPatternToEvents.exe
+C:\Users\Gabriel\Downloads\TreeViewXML\RDP_SEW\ObserverPatternToEvents\bin\Debug\net6.0\ObserverPatternToEvents.deps.json
+C:\Users\Gabriel\Downloads\TreeViewXML\RDP_SEW\ObserverPatternToEvents\bin\Debug\net6.0\ObserverPatternToEvents.runtimeconfig.json
+C:\Users\Gabriel\Downloads\TreeViewXML\RDP_SEW\ObserverPatternToEvents\bin\Debug\net6.0\ObserverPatternToEvents.dll
+C:\Users\Gabriel\Downloads\TreeViewXML\RDP_SEW\ObserverPatternToEvents\bin\Debug\net6.0\ref\ObserverPatternToEvents.dll
+C:\Users\Gabriel\Downloads\TreeViewXML\RDP_SEW\ObserverPatternToEvents\bin\Debug\net6.0\ObserverPatternToEvents.pdb
+C:\Users\Gabriel\Downloads\TreeViewXML\RDP_SEW\ObserverPatternToEvents\obj\Debug\net6.0\ObserverPatternToEvents.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Downloads\TreeViewXML\RDP_SEW\ObserverPatternToEvents\obj\Debug\net6.0\ObserverPatternToEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Downloads\TreeViewXML\RDP_SEW\ObserverPatternToEvents\obj\Debug\net6.0\ObserverPatternToEvents.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Downloads\TreeViewXML\RDP_SEW\ObserverPatternToEvents\obj\Debug\net6.0\ObserverPatternToEvents.AssemblyInfo.cs
+C:\Users\Gabriel\Downloads\TreeViewXML\RDP_SEW\ObserverPatternToEvents\obj\Debug\net6.0\ObserverPatternToEvents.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Downloads\TreeViewXML\RDP_SEW\ObserverPatternToEvents\obj\Debug\net6.0\ObserverPatternToEvents.dll
+C:\Users\Gabriel\Downloads\TreeViewXML\RDP_SEW\ObserverPatternToEvents\obj\Debug\net6.0\ref\ObserverPatternToEvents.dll
+C:\Users\Gabriel\Downloads\TreeViewXML\RDP_SEW\ObserverPatternToEvents\obj\Debug\net6.0\ObserverPatternToEvents.pdb
+C:\Users\Gabriel\Downloads\TreeViewXML\RDP_SEW\ObserverPatternToEvents\obj\Debug\net6.0\ObserverPatternToEvents.genruntimeconfig.cache
