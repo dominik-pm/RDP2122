@@ -5,11 +5,11 @@ Lernunterlagen der Reife- und Diplomprüfung der HTL Krems, Depandance Zwettl im
 Macho hat grundsätzlich 3 verschiedene Bsp. mit verschiedener Gewichtung erstellt. 
 
 Was sehr wahrscheinlich kommt:
- - Observer Pattern (von normal auf Events umschreiben) (heißer Tipp)
- - Windows Forms mit Treeview und Rekursion ([BinaryTree](SEW/SEW.md#BinaryTree)?)
+ - [Observer Pattern](SEW/ObserverPatternToEvents) (von normal auf Events umschreiben) (heißer Tipp)
+ - Windows Forms mit Treeview und Rekursion ([BinaryTree](SEW/BinaryTree)?)
  - [LinkedList](SEW/SEW.md#LinkedList) mit Iterator Pattern und Indexer
  - [Threads](SEW/SEW.md#Threads) mit Semaphore (sollen uns de Bsp. vom KATZE in C# anschaun)
- - [BinaryTree](SEW/SEW.md#BinaryTree) Elemente Löschen (!) und inorder und so ausgeben.
+ - [BinaryTree](SEW/BinaryTree) Elemente Löschen (!) und inorder und so ausgeben.
 
 Was sonst noch kommen kann:
  - String Concatenation mit Stringbuilder (hat er aber bei Gruppe 1 gar ned gsagt..)
