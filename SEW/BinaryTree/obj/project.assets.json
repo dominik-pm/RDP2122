@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Documents\\2021\\5chit\\RDP\\RDP2122\\SEW\\ObserverPatternToEvents\\ObserverPatternToEvents.csproj",
-      "projectName": "ObserverPatternToEvents",
-      "projectPath": "C:\\Documents\\2021\\5chit\\RDP\\RDP2122\\SEW\\ObserverPatternToEvents\\ObserverPatternToEvents.csproj",
+      "projectUniqueName": "C:\\Documents\\2021\\5chit\\RDP\\RDP2122\\SEW\\BinaryTree\\BinaryTree.csproj",
+      "projectName": "BinaryTree",
+      "projectPath": "C:\\Documents\\2021\\5chit\\RDP\\RDP2122\\SEW\\BinaryTree\\BinaryTree.csproj",
       "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-      "outputPath": "C:\\Documents\\2021\\5chit\\RDP\\RDP2122\\SEW\\ObserverPatternToEvents\\obj\\",
+      "outputPath": "C:\\Documents\\2021\\5chit\\RDP\\RDP2122\\SEW\\BinaryTree\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
