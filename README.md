@@ -6,7 +6,7 @@ Macho hat grundsätzlich 3 verschiedene Bsp. mit verschiedener Gewichtung erstel
 
 Was sehr wahrscheinlich kommt:
  - [Observer Pattern](SEW/ObserverPatternToEvents) (von normal auf Events umschreiben) (heißer Tipp)
- - Windows Forms mit Treeview und Rekursion ([BinaryTree](SEW/SEW.md#BinaryTree)?)
+ - Windows Forms mit Treeview und Rekursion ([BinaryTree](SEW/BinaryTree)?)
  - [LinkedList](SEW/SEW.md#LinkedList) mit Iterator Pattern und Indexer
  - [Threads](SEW/SEW.md#Threads) mit Semaphore (sollen uns de Bsp. vom KATZE in C# anschaun)
  - [BinaryTree](SEW/BinaryTree) Elemente Löschen (!) und inorder und so ausgeben.
