@@ -5,7 +5,9 @@ VisualStudioVersion = 17.1.31903.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObserverPatternToEvents", "ObserverPatternToEvents\ObserverPatternToEvents.csproj", "{C188745A-4BF9-459C-A62C-2689C0E0893A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree", "BinaryTree\BinaryTree.csproj", "{38199BF0-FB3D-4759-A8DA-0B84DEDC962E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryTree", "BinaryTree\BinaryTree.csproj", "{38199BF0-FB3D-4759-A8DA-0B84DEDC962E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{EDC5F56F-9E2B-4969-B32C-01BA3D48E2B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{38199BF0-FB3D-4759-A8DA-0B84DEDC962E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38199BF0-FB3D-4759-A8DA-0B84DEDC962E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38199BF0-FB3D-4759-A8DA-0B84DEDC962E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDC5F56F-9E2B-4969-B32C-01BA3D48E2B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC5F56F-9E2B-4969-B32C-01BA3D48E2B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC5F56F-9E2B-4969-B32C-01BA3D48E2B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC5F56F-9E2B-4969-B32C-01BA3D48E2B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
