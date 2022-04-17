@@ -8,7 +8,7 @@ Was sehr wahrscheinlich kommt:
  - [Observer Pattern](SEW/ObserverPatternToEvents) (von normal auf Events umschreiben) (heißer Tipp)
  - [Windows Forms mit Treeview und Rekursion](SEW/TreeView) ([BinaryTree](SEW/BinaryTree)?)
  - [LinkedList](SEW/LinkedList) mit Iterator Pattern und Indexer
- - [Threads](SEW/SEW.md#Threads) mit Semaphore (sollen uns de Bsp. vom KATZE in C# anschaun)
+ - [Threads](SEW/Semaphore_Racing_Simulator) mit Semaphore (sollen uns de Bsp. vom KATZE in C# anschaun)
  - [BinaryTree](SEW/BinaryTree) Elemente Löschen (!) und inorder und so ausgeben.
 
 Was sonst noch kommen kann:
