@@ -1,0 +1,15 @@
+C:\Documents\2021\5chit\RDP\RDP2122\SEW\Semaphore_Racing_Simulator\bin\Debug\net6.0\Semaphore_Racing_Simulator.exe
+C:\Documents\2021\5chit\RDP\RDP2122\SEW\Semaphore_Racing_Simulator\bin\Debug\net6.0\Semaphore_Racing_Simulator.deps.json
+C:\Documents\2021\5chit\RDP\RDP2122\SEW\Semaphore_Racing_Simulator\bin\Debug\net6.0\Semaphore_Racing_Simulator.runtimeconfig.json
+C:\Documents\2021\5chit\RDP\RDP2122\SEW\Semaphore_Racing_Simulator\bin\Debug\net6.0\Semaphore_Racing_Simulator.dll
+C:\Documents\2021\5chit\RDP\RDP2122\SEW\Semaphore_Racing_Simulator\bin\Debug\net6.0\ref\Semaphore_Racing_Simulator.dll
+C:\Documents\2021\5chit\RDP\RDP2122\SEW\Semaphore_Racing_Simulator\bin\Debug\net6.0\Semaphore_Racing_Simulator.pdb
+C:\Documents\2021\5chit\RDP\RDP2122\SEW\Semaphore_Racing_Simulator\obj\Debug\net6.0\Semaphore_Racing_Simulator.csproj.AssemblyReference.cache
+C:\Documents\2021\5chit\RDP\RDP2122\SEW\Semaphore_Racing_Simulator\obj\Debug\net6.0\Semaphore_Racing_Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documents\2021\5chit\RDP\RDP2122\SEW\Semaphore_Racing_Simulator\obj\Debug\net6.0\Semaphore_Racing_Simulator.AssemblyInfoInputs.cache
+C:\Documents\2021\5chit\RDP\RDP2122\SEW\Semaphore_Racing_Simulator\obj\Debug\net6.0\Semaphore_Racing_Simulator.AssemblyInfo.cs
+C:\Documents\2021\5chit\RDP\RDP2122\SEW\Semaphore_Racing_Simulator\obj\Debug\net6.0\Semaphore_Racing_Simulator.csproj.CoreCompileInputs.cache
+C:\Documents\2021\5chit\RDP\RDP2122\SEW\Semaphore_Racing_Simulator\obj\Debug\net6.0\Semaphore_Racing_Simulator.dll
+C:\Documents\2021\5chit\RDP\RDP2122\SEW\Semaphore_Racing_Simulator\obj\Debug\net6.0\ref\Semaphore_Racing_Simulator.dll
+C:\Documents\2021\5chit\RDP\RDP2122\SEW\Semaphore_Racing_Simulator\obj\Debug\net6.0\Semaphore_Racing_Simulator.pdb
+C:\Documents\2021\5chit\RDP\RDP2122\SEW\Semaphore_Racing_Simulator\obj\Debug\net6.0\Semaphore_Racing_Simulator.genruntimeconfig.cache
