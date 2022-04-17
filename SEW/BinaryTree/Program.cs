@@ -105,19 +105,19 @@ class BinaryTree<T> where T : IComparable<T>
         //if it is the correct Node:
 
         //3 cases: no child -> just delete node, 1 child -> replace node with child, or 2 childs -> find nearest successor or precessor, delete this successor/precessor
-        if (curr.Left == default) //if one is default, return the other Node, if right is also default it will return default and therfor is also correct
+        if (curr.Left == default) //if one is default, return the other Node, if right is also default it will return default and therefor is also correct
         {
             return curr.Right;
         }
-        if (curr.Right == default) //both are default, so return default
+        if (curr.Right == default)
         {
-            return default;
+            return curr.Left;
         }
         //has 2 childs:
         TreeElement<T> minSuccessor = findMin(curr.Right);
         curr.Value = minSuccessor.Value; //set current Value to minSuccessor
 
-        Delete(curr.Right, curr.Value); //Delete this minSuccessor
+        curr.Right = Delete(curr.Right, curr.Value); //Delete this minSuccessor
         
         return curr;
     }
