@@ -12,7 +12,7 @@ Was sehr wahrscheinlich kommt:
  - [BinaryTree](SEW/BinaryTree) Elemente Löschen (!) und inorder und so ausgeben.
 
 Was sonst noch kommen kann:
- - String Concatenation mit Stringbuilder (hat er aber bei Gruppe 1 gar ned gsagt..)
+ - String Concatenation mit Stringbuilder
  - Factory Pattern (Pizzabeispiel)
 
 ## INSY
