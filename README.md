@@ -26,11 +26,12 @@ Was sehr wahrscheinlich kommt:
    - Auch eventuell mit a bissi Theorie (aka "Was ist bei einem vorsortierten Einfügen in einen B-Baum?" -> "Speichereffizienz gering") 
  - Eher einfache SQL Abfragen ("group und join soitats scho kena")
  - Trigger und Functions (heißer Tipp) (auch procedures, aber de warn ka heißer Tipp irgendwie) (Mit Cursor) (Trigger kummt fix wie nix!)
+ - XML Transformationen (DTD, XSLT) (Schauts eich des guad o!)
+
 
 Was sonst noch kommen kann:
  - Transportproblem (Simplex denk i eher ned)
  - Check Constraints
- - XML Transformationen (DTD, XSLT) <b>TODO Fragen ob DTD wirklich kommt oder nur XSLT</b> (kummt wsl scho aber ka)
  - Normalformen (bei da Schriftlichen nur so, dass die zu erstellenden Tabellen in Normalform sind und nicht explizit; Bei da mündlichen kon ois sei..)
  - Eventuell so a Frage ob a Programm in an Deadlock führt. 
 
