@@ -36,7 +36,7 @@ namespace TreeView
 
             binaryTree.Delete(50);
            //binaryTree.Delete(50);
-
+           
 
             PopulateTreeView(binaryTree);
             treeView1.ExpandAll();
@@ -66,6 +66,5 @@ namespace TreeView
                 PopulateTreeView(element.Right, node);
             }
         }
-
     }
 }

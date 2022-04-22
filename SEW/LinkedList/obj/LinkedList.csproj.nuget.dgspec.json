@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Documents\\2021\\5chit\\RDP\\RDP2122\\SEW\\LinkedList\\LinkedList.csproj": {}
+    "C:\\Users\\thomas\\Dropbox\\School\\RDP2122\\SEW\\LinkedList\\LinkedList.csproj": {}
   },
   "projects": {
-    "C:\\Documents\\2021\\5chit\\RDP\\RDP2122\\SEW\\LinkedList\\LinkedList.csproj": {
+    "C:\\Users\\thomas\\Dropbox\\School\\RDP2122\\SEW\\LinkedList\\LinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Documents\\2021\\5chit\\RDP\\RDP2122\\SEW\\LinkedList\\LinkedList.csproj",
+        "projectUniqueName": "C:\\Users\\thomas\\Dropbox\\School\\RDP2122\\SEW\\LinkedList\\LinkedList.csproj",
         "projectName": "LinkedList",
-        "projectPath": "C:\\Documents\\2021\\5chit\\RDP\\RDP2122\\SEW\\LinkedList\\LinkedList.csproj",
-        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Documents\\2021\\5chit\\RDP\\RDP2122\\SEW\\LinkedList\\obj\\",
+        "projectPath": "C:\\Users\\thomas\\Dropbox\\School\\RDP2122\\SEW\\LinkedList\\LinkedList.csproj",
+        "packagesPath": "C:\\Users\\thomas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thomas\\Dropbox\\School\\RDP2122\\SEW\\LinkedList\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\thomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

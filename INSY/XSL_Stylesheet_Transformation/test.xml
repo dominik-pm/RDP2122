@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TVSCHEDULE SYSTEM "test.dtd">
+
+<?xml-stylesheet href="test.xsl" type="text/xsl"?>
+
+<TVSCHEDULE NAME="krone">
+	<CHANNEL CHAN="orf1">
+		<BANNER>image/orf1.png</BANNER>
+		<DAY>
+			<DATE>23.01.2022</DATE>
+
+			<PROGRAMSLOT>
+				<TIME>20:00</TIME>
+				<TITLE>Title</TITLE>
+				<DESCRIPTION>Description</DESCRIPTION>
+			</PROGRAMSLOT>
+		</DAY>
+		<DAY>
+			<DATE>25.02.2022</DATE>
+			<PROGRAMSLOT>
+				<TIME>08:45</TIME>
+				<TITLE>Bedaubernde Jeannie</TITLE>
+				<DESCRIPTION> Tony und Jeannie sitzen gemütlich beim Frühstück und planen für den Abend eine Fahrt ans Meer. Doch daraus wird nichts, da Tony die Tochter eines Rüstungsfabrikanten ausführen muss, die mit ihm unbedingt eine Ausfahrt mit ihrer Privatjacht unternehmen möchte. Natürlich zaubert sich Jeannie mit an Bord. Als sie nach einem Streit mit ihrem Meister unsichtbar wird, ist der Rest der Mannschaft überzeugt, dass Tony die Frau über Bord geworfen hat. </DESCRIPTION>
+			</PROGRAMSLOT>
+			<PROGRAMSLOT>
+				<TIME>09:30</TIME>
+				<TITLE>Scrubs - Die Anfänger</TITLE>
+				<DESCRIPTION> J.D.s Bruder Dan überbringt ihm die Nachricht vom Tod ihres Vaters. Da er nun schon einmal hier ist, beschließt Dan, bei J.D. einzuziehen. Den Großteil seiner Zeit verbringt er Bier trinkend in der Badewanne. J.D. wundert sich sehr, dass ausgerechnet Dr. Cox sehr einfühlsam auf seinen Verlust reagiert. Inzwischen erhält auch Turk eine schlechte Nachricht: Er hat Diabetes. </DESCRIPTION>
+			</PROGRAMSLOT>
+			<PROGRAMSLOT>
+				<TIME>09:55</TIME>
+				<TITLE>Gilmore Girs</TITLE>
+				<DESCRIPTION> Die Ankunft von Rorys Vater Christopher sorgt für allerlei Turbulenzen. Zunächst kommt es bei einem Familienessen zu einem großen Streit. Dann vergisst Lorelai in der ganzen Aufregung Luke beim Ausmalen seines Lokals zu helfen. Zerknirscht bittet sie ihn um Entschuldigung. Zu Hause wartet schließlich eine große Überraschung auf Lorelai: Christopher macht ihr einen Heiratsantrag. </DESCRIPTION>
+			</PROGRAMSLOT>
+			<PROGRAMSLOT>
+				<TIME>10:35</TIME>
+				<TITLE>Die Vampirschwestern 2 - Fledermäuse im Bauch</TITLE>
+				<DESCRIPTION></DESCRIPTION>
+			</PROGRAMSLOT>
+			<PROGRAMSLOT>
+				<TIME>12:00</TIME>
+				<TITLE>Magazin 1</TITLE>
+				<DESCRIPTION></DESCRIPTION>
+			</PROGRAMSLOT>
+			<PROGRAMSLOT>
+				<TIME>12:10</TIME>
+				<TITLE>Q1 Ein Hinweis ist falsch</TITLE>
+				<DESCRIPTION></DESCRIPTION>
+			</PROGRAMSLOT>
+			<PROGRAMSLOT>
+				<TIME>12:45</TIME>
+				<TITLE>Gilmore Girls</TITLE>
+				<DESCRIPTION></DESCRIPTION>
+			</PROGRAMSLOT>
+			<PROGRAMSLOT>
+				<TIME>13:30</TIME>
+				<TITLE>Die Nanny</TITLE>
+				<DESCRIPTION></DESCRIPTION>
+			</PROGRAMSLOT>
+			<PROGRAMSLOT>
+				<TIME>13:55</TIME>
+				<TITLE>Mordern Family</TITLE>
+				<DESCRIPTION></DESCRIPTION>
+			</PROGRAMSLOT>
+		</DAY>
+	</CHANNEL>
+	<CHANNEL CHAN="orf2">
+		<BANNER>image/orf2.png</BANNER>
+		<DAY>
+			<DATE>23.01.2022</DATE>
+			<HOLIDAY>Muttertag</HOLIDAY>
+			<PROGRAMSLOT>
+				<TIME>20:00</TIME>
+				<TITLE>Title</TITLE>
+				<DESCRIPTION>Description</DESCRIPTION>
+			</PROGRAMSLOT>
+			<PROGRAMSLOT>
+				<TIME>20:00</TIME>
+				<TITLE>Title</TITLE>
+				<DESCRIPTION>Description</DESCRIPTION>
+			</PROGRAMSLOT>
+		</DAY>
+		<DAY>
+			<DATE>25.02.2022</DATE>
+			<PROGRAMSLOT>
+				<TIME>09:10</TIME>
+				<TITLE>Fit mit Phillip</TITLE>
+			</PROGRAMSLOT>
+			<PROGRAMSLOT>
+				<TIME>09:27</TIME>
+				<TITLE>Wetter-Panorama</TITLE>
+			</PROGRAMSLOT>
+			<PROGRAMSLOT>
+				<TIME>09:30</TIME>
+				<TITLE>Silvia kocht</TITLE>
+			</PROGRAMSLOT>
+			<PROGRAMSLOT>
+				<TIME>09:55</TIME>
+				<TITLE>Alles Walzer - Das Opernball-Quiz</TITLE>
+			</PROGRAMSLOT>
+		</DAY>
+		<DAY>
+			<DATE>26.02.2022</DATE>
+			<PROGRAMSLOT>
+				<TIME>08:07</TIME>
+				<TITLE>Biene Maya</TITLE>
+			</PROGRAMSLOT>
+		</DAY>
+	</CHANNEL>
+	<CHANNEL CHAN="atv">
+		<BANNER>image/atv.png</BANNER>
+		<DAY>
+			<DATE>5.5.2005</DATE>
+			<PROGRAMSLOT>
+				<TIME>08:05</TIME>
+				<TITLE RATING="4.5">
+					Putins invasion
+				</TITLE>
+				<DESCRIPTION>
+					The invasion of the Kremlin is imminent.
+				</DESCRIPTION>
+			</PROGRAMSLOT>
+		</DAY>
+	</CHANNEL>
+</TVSCHEDULE>
